@@ -1,0 +1,2 @@
+# discord-images
+Hackers and scammers found a bug on discord, allows to send a link that linked with a cursed image and a discord login phishing page. when clicked on "View Original" people think they need to login in to view the image or something like that... or just send them a rickroll ;) but.. how? great question! using this tool! just create a shortlink.at link and send it. Sure, use it on a friend or a family member but not like a scam or phishing.
